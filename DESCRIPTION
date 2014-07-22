@@ -1,0 +1,13 @@
+Package: coder
+Type: Package
+Title: Code tools for R
+Version: 0.1
+Date: 2014-07-22
+Author: Kun Ren <renkun@outlook.com>
+Maintainer: Kun Ren <renkun@outlook.com>
+Description: A set of code tools for R
+Roxygen: list(wrap = FALSE)
+Suggests:
+    testthat,
+    knitr
+License: GPL (>= 2)
